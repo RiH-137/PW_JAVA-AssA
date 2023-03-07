@@ -1,0 +1,30 @@
+Answer1>
+Simply open GIT Bash Terminal and tpye <git version>. The output will show us whether the git is installed or not.
+
+Answer2>
+Create a new repository on GitHub.com. 
+Open TerminalTerminalGit Bash.
+Change the current working directory to your local project.
+Use the init command to initialize the local directory as a Git repository. 
+Add the files in your new local repository. 
+Commit the files that you've staged in your local repository.
+
+Answer3>
+by using <git config --global user.name> for name and <git config --gobal user.email> for email.
+
+Answer4>
+by using <git add --all> command.
+
+Answer5>
+The git rm command use to removes the file from your working directory.
+
+Answer6>
+by using <git commit> command we can commit a file.
+
+Answer7>
+By running this command <git push -u remote-name branch-name>
+
+Answer8>
+git clone is use to get a local copy of an existing repository to work on. It's usually only used once for a given repository, unless you want to have multiple working copies of it around. (Or want to get a clean copy after messing up your local one...)
+
+git pull (or git fetch + git merge) is use to update that local copy with new commits from the remote repository. If you are collaborating with others, it is a command that you will run frequently.
