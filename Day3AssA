@@ -1,0 +1,30 @@
+Answer1>
+GIT- GIT is version control system created by LInus Torvalds in 2005 and maintained by Junio Hamano. Used for collaboration, history of modification of code etc. GIT is a DevOps tool use for management of source code. There are two types of version control System CVCS and DVCS. GIT is DVCS.
+
+Answer2>
+ Version control systems are software tools that help software teams manage changes to source code over time.
+ 
+ Answer3>
+  GitHub is a code hosting platform for version control and collaboration. Owned by Microsoft.
+  
+  
+Answer4>
+Github, Gitlab, Bitbucket etc
+
+Answer5>
+There are mainly two types of version control system. They are Centralized Version Control System i.e., VSCS and Distributed Version Control System i.e., DVCS.
+
+Answer6>
+It's used for storing, tracking, and collaborating on software projects. It makes it easy for developers to share code files and collaborate with fellow developers on open-source projects. GitHub also serves as a social networking site where developers can openly network, collaborate, and pitch their work.
+
+Answer7>
+What is meant by Git repository?
+A Git repository is the ". git"/ folder inside a project. This repository tracks all changes made to files in your project, building a history over time. Meaning. If you delete the ". git"/ folder, then you delete your project's history too.
+
+Answer8>
+Create a new repository on GitHub.com. 
+Open Terminal--Git Bash.
+Change the current working directory to your local project.
+Use the init command to initialize the local directory as a Git repository.
+Add the files in your new local repository.
+Commit the files that you've staged in your local repository.
