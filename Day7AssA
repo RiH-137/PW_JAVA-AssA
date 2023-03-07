@@ -1,0 +1,34 @@
+Answer1>
+Stratically typed language :- A language is statically typed if the type of a variable is known at compile time. For some languages this means that you as the programmer must specify what type each variable is; other languages (e.g.: Java, C, C++) offer some form of type inference, the capability of the type system to deduce the type of a variable (e.g.: OCaml, Haskell, Scala, Kotlin).
+Dynamically typed language :- A language is dynamically typed if the type is associated with run-time values, and not named variables/fields/etc. This means that you as a programmer can write a little quicker because you do not have to specify types every time (unless using a statically-typed language with type inference). Examples: Perl, Ruby, Python, PHP, JavaScript.
+
+
+Answer2>
+Variables are the container for storing data value in JAVA. There are mainly three types of variable in JAVA, that are Local, Instance and Static.
+
+Answer3>
+  By using assignment operator that is "=".
+  
+  
+Answer4>
+Primitive types are predefined (already defined) in Java. Non-primitive types are created by the programmer and is not defined by Java. EXAMPLES ARE INT, BYTE, SHORT, LONG (NOT STRING)
+
+
+
+Answer5>
+Identifiers in Java are names that distinguish between different Java entities, such as classes, methods, variables, and packages. Identifiers include the names of classes, methods, variables, packages, constants, etc. These identifiers are each specified using a specific syntax and naming scheme.
+
+
+Answer6>
+Arithmetic Operators
+Unary Operators
+Assignment Operator
+Relational Operators
+Logical Operators
+Ternary Operator
+Bitwise Operators
+Shift Operators
+instance of operator
+
+Answer7>
+Increament operator or decreament operator are use in loops. Increament i.e., ++ is use for +1 cvalue addition while decreament operator is use for decreament in value i.e., -- .
