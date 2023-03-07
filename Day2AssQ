@@ -1,0 +1,24 @@
+Answer1>
+Computer a electronic machine that can only understand binary language i.e., 0 amd 1. Charles Babbage is called father of computer. It's main function is to take input from the user, processed it and give output. It consists of many components, but some of its main components are Monitor, Keyboard, CPU, mouse etc.
+
+Answer2>
+RAM stands for Random Access Memory. RAM is ther main memory of a computer. RAM is a computer's short-term memory, where the data that the processor is currently using is stored. There are mainly two types of RAM, first is DRAM, is widely used as a computer’s main memory. Each DRAM memory cell is made up of a transistor and a capacitor within an integrated circuit, and a data bit is stored in the capacitor. Since transistors always leak a small amount, the capacitors will slowly discharge, causing information stored in it to drain; hence, DRAM has to be refreshed (given a new electronic charge) every few milliseconds to retain data.
+SRAM is made up of four to six transistors. It keeps data in the memory as long as power is supplied to the system, which has to be refreshed periodically. As such, SRAM is faster but also more expensive, making DRAM the more prevalent memory in computer systems.
+
+Answer3>
+Data stores for short time in RAM and later on copied from RAM to hard disk.
+
+Answer4>
+Keyboard
+
+Answer5>
+A computer component or device which shows processed data or information or output in human readible form called output devices. eg., Monitor etc
+
+Answer6>
+Mouse
+
+Answer7>
+Binary Language
+
+Answer8>
+Devices which are use to take input or data from the user for furthur process in known as input devices. Some examples are Keyboard, mouse etc 
