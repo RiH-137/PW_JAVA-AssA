@@ -1,0 +1,29 @@
+Answer1>
+A programming language is a set of grammatical rules for instructing a computer or computing device to perform specific tasks. The term programming language usually refers to high-level languages, such as BASIC, C, C++, COBOL, Java, FORTRAN, Ada, and Pascal.
+
+
+Answer2>
+In order to ommunicate with a computer system, we need a programming language. Computer can't understand human language it's only understand bu=inary language. So, a highy level language is use to communicate with a computer System. This high level languages such are JAVA, C++ etc. HIgh level language first convert into assembly level or machine level language and later on convert into binary language.
+
+
+Answer3>
+Somr important features of java ar5e Simple.
+Object-Oriented.
+Platform Independent.
+Portable.
+Robust.
+Secure.
+Interpreted.
+Multi-Threaded.
+
+
+Answer4>
+An object is an entity with state and behaviour. Object created during runtime.
+
+
+Answer5>
+A class is collection of objects that have similar behaviour and attributes.
+
+
+Answer6>
+In Java programs, the point from where the program starts its execution or simply the entry point of Java programs is the main() method.
